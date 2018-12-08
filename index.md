@@ -8,9 +8,7 @@ title: Home
 
 A minimal Jekyll theme for creating workshop websites.
 
-*Add your workshop abstract here!*
-
-This is an early exercise in learning Jekyll using download of workshop template at evanwill.
+*This is an early exercise in learning Jekyll using download of workshop template at evanwill. DM*
 
 *See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
 
