@@ -1,5 +1,5 @@
 ---
-title: intro2
+title: introduction
 nav: yes
 ---
 
