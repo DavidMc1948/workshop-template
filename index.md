@@ -4,7 +4,7 @@ title: Home
 
 # Workshop Template!
 
-{% include figure.html img="41+HbvoQGqL.jpg" alt="intro image here" caption="Book cover" width="75%" %}
+{% include figure.html img="41+HbvoQGqL.jpg" alt="intro image here" caption="Book cover" width="50%" %}
 
 A minimal Jekyll theme for creating workshop websites.
 
