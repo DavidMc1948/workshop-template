@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Workshop Template!
+# Learning Jekyll with the Help of Workshop Template!
 
 {% include figure.html img="41+HbvoQGqL.jpg" alt="intro image here" caption="Book cover" width="25%" %}
 
@@ -10,9 +10,7 @@ A minimal Jekyll theme for creating workshop websites.
 
 *Add your workshop abstract here!*
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+This is an early exercise in learning Jekyll using download of workshop template at evanwill.
 
 *See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
 
