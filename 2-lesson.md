@@ -1,6 +1,6 @@
 ---
 title: Start
-nav: true
+nav: 
 ---
 
 # Get Started
