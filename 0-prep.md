@@ -1,6 +1,6 @@
 ---
 title: Prep
-nav: true
+nav: 
 ---
 
 # Workshop Prep
