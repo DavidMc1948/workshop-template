@@ -3,6 +3,6 @@ title: introduction
 nav: yes
 ---
 
-Introduction
+# Introduction
 
 Text.
